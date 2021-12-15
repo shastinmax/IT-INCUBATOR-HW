@@ -3,17 +3,19 @@
     margin-top: 50px;
     width: 500px;
     background-color: #262626;
+    position: relative;
 }
 
 .inner {
     display: flex;
 }
 .message {
-    background-color: #ff3c1c;
-    height: 125px;
-    width: 372px;
     position: relative;
-    margin: 5px 0 20px 18px;
+    background-color: #ff3c1c;
+    width: 372px;
+    min-height: 125px;
+    position: relative;
+    margin: 5px 0 20px 125px;
 }
 
 .message::after {
@@ -38,7 +40,7 @@
 
 }
 
-.box-2::before {
+.message::before {
     content: '';
     position: absolute;
     width: 25px;
@@ -63,6 +65,9 @@
 }
 
 .img {
+    position: absolute;
+    bottom: 28px;
+    left: 10px;
     display: block;
     width: 100px;
     height: 100px;
@@ -83,6 +88,6 @@
 
 .time {
     position: absolute;
-    bottom: 5px;
+    bottom: 0px;
     right: 5px;
 }
