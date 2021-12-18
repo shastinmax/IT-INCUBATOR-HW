@@ -1,3 +1,56 @@
 .someClass {
 
 }
+
+.wrapper {
+    display: flex;
+    width: 350px;
+
+    align-items: center;
+    margin-left: 15px;
+
+}
+
+.btn {
+    background-color: #ff3c1c;
+    height: 25px;
+
+}
+
+.button {
+    width: 100px;
+    background-color: green;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.active {
+    background: burlywood;
+}
+
+.button:active {
+    background-color: #ff3c1c;
+}
+
+.name {
+    width: 150px;
+}
+
+.priority {
+    width: 150px;
+    font-weight: 700;
+}
+
+.low {
+    color: darkturquoise;
+}
+
+.high {
+    color: antiquewhite;
+}
+
+.middle {
+    color: chartreuse;
+}
