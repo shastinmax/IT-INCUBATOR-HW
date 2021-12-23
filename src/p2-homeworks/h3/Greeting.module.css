@@ -1,7 +1,13 @@
 .someClass {
-
+margin-left: 15px;
 }
 
 .error {
     border: 1px solid red;
+}
+.active{
+    border: 1px solid black;
+}
+.errorText{
+    color: red;
 }
