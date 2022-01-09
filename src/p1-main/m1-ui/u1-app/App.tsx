@@ -14,7 +14,9 @@ function App() {
             {/*<HW2/>*/}
             {/*<HW3/>*/}
             {/*<HW4/>*/}
-            <HW5/>
+            <div className={s.hw5}>
+                <HW5/>
+            </div>
 
         </div>
     )
