@@ -7,7 +7,7 @@ function Header() {
         <div className={s.wrapper}>
             <NavLink className={s.headerLink} to={'/pre-junior'}>{'pre-junior'}</NavLink>
             <NavLink className={s.headerLink} to={'/junior'}>{'junior'}</NavLink>
-            <NavLink className={s.headerLink } to={'/junior-plus'}>{'junior-plus'}</NavLink>
+            <NavLink className={s.headerLink} to={'/junior-plus'}>{'junior-plus'}</NavLink>
             <div className={s.box}></div>
         </div>
     )
