@@ -1,13 +1,26 @@
 .someClass {
-margin-left: 15px;
-}
+    margin-left: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
+}
+.button{
+    margin-top: 15px;
+    border-radius: 7px;
+}
+.span{
+    font-size: 24px;
+    font-weight: 600;
+}
 .error {
     border: 1px solid red;
 }
-.active{
+
+.active {
     border: 1px solid black;
 }
-.errorText{
+
+.errorText {
     color: red;
 }

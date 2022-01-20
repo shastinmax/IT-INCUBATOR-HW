@@ -39,14 +39,16 @@ function Affairs(props: AffairsPropsType) {
     const onMiddle = s.button + " " + (props.filter === 'middle' ? s.active : '')
 
     return (
-        <div>
+        <div className={s.hw2}>
 
             <div>{mappedAffairs}</div>
 
-            <button onClick={setAll} className={onAll}>All</button>
-            <button onClick={setHigh} className={onHigh}>High</button>
-            <button onClick={setMiddle} className={onMiddle}>Middle</button>
-            <button onClick={setLow} className={onLow}>Low</button>
+            <div className={s.buttons}>
+                <button onClick={setAll} className={onAll}>All</button>
+                <button onClick={setHigh} className={onHigh}>High</button>
+                <button onClick={setMiddle} className={onMiddle}>Middle</button>
+                <button onClick={setLow} className={onLow}>Low</button>
+            </div>
         </div>
     )
 }

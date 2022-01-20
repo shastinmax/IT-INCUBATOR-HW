@@ -54,3 +54,11 @@
 .middle {
     color: chartreuse;
 }
+.hw2{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.buttons{
+    display: flex;
+}
