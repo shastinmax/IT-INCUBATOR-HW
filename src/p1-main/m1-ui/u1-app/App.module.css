@@ -1,11 +1,21 @@
-.App {
+* {
+    /*background-color: darkcyan;*/
+}
+
+body {
     background-color: darkcyan;
+}
+
+.App {
+    /*background-color: darkcyan;*/
 
 }
-.hw3{
-    background-color: darkcyan;
+
+.hw3 {
+    /*background-color: darkcyan;*/
 }
-.hw5{
-    background-color: darkcyan;
+
+.hw5 {
+    /*background-color: darkcyan;*/
     height: 100vh;
 }

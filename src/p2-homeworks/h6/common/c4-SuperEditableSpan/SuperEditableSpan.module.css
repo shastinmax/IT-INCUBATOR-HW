@@ -1,0 +1,16 @@
+
+.span{
+    cursor:pointer;
+    position: relative;
+}
+.span:after{
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url("https://cdn.icon-icons.com/icons2/520/PNG/128/Pencil_icon-icons.com_51975.png");
+    top: 0;
+    right: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
