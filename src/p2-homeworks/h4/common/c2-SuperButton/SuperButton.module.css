@@ -1,10 +1,19 @@
 .default {
     margin-top: 10px;
     border-radius: 7px;
+    width: 170px;
+    border-radius: 10px;
+    margin-left: 5px;
+
+}
+.default:active{
+    background-color: #ff3c1c;
 }
 
 .red {
     background: red;
     border-radius: 7px;
     margin-top: 10px;
+    width: 170px;
+    border-radius: 10px;
 }

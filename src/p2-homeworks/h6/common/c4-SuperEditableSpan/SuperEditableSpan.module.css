@@ -8,9 +8,13 @@
     position: absolute;
     width: 20px;
     height: 20px;
-    background-image: url("https://cdn.icon-icons.com/icons2/520/PNG/128/Pencil_icon-icons.com_51975.png");
-    top: 0;
-    right: 0;
+    background-image: url('https://cdn.icon-icons.com/icons2/1744/PNG/128/3643749-edit-pen-pencil-write-writing_113397.png');
+    top: 0px;
+    right: -20px;
     background-size: cover;
     background-repeat: no-repeat;
+}
+.superEditableSpan{
+    width: 170px;
+    margin: 0 auto;
 }
