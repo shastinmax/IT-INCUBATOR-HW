@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/IT-INCUBATOR-HW/static/css/main.120a9a5c.chunk.css",
-    "main.js": "/IT-INCUBATOR-HW/static/js/main.a97800ee.chunk.js",
-    "main.js.map": "/IT-INCUBATOR-HW/static/js/main.a97800ee.chunk.js.map",
+    "main.js": "/IT-INCUBATOR-HW/static/js/main.29dc31ae.chunk.js",
+    "main.js.map": "/IT-INCUBATOR-HW/static/js/main.29dc31ae.chunk.js.map",
     "runtime-main.js": "/IT-INCUBATOR-HW/static/js/runtime-main.c8e475ba.js",
     "runtime-main.js.map": "/IT-INCUBATOR-HW/static/js/runtime-main.c8e475ba.js.map",
-    "static/js/2.46cb0989.chunk.js": "/IT-INCUBATOR-HW/static/js/2.46cb0989.chunk.js",
-    "static/js/2.46cb0989.chunk.js.map": "/IT-INCUBATOR-HW/static/js/2.46cb0989.chunk.js.map",
+    "static/js/2.5da0a4d5.chunk.js": "/IT-INCUBATOR-HW/static/js/2.5da0a4d5.chunk.js",
+    "static/js/2.5da0a4d5.chunk.js.map": "/IT-INCUBATOR-HW/static/js/2.5da0a4d5.chunk.js.map",
     "index.html": "/IT-INCUBATOR-HW/index.html",
     "static/css/main.120a9a5c.chunk.css.map": "/IT-INCUBATOR-HW/static/css/main.120a9a5c.chunk.css.map",
-    "static/js/2.46cb0989.chunk.js.LICENSE.txt": "/IT-INCUBATOR-HW/static/js/2.46cb0989.chunk.js.LICENSE.txt",
+    "static/js/2.5da0a4d5.chunk.js.LICENSE.txt": "/IT-INCUBATOR-HW/static/js/2.5da0a4d5.chunk.js.LICENSE.txt",
     "static/media/preloader.81b72309.svg": "/IT-INCUBATOR-HW/static/media/preloader.81b72309.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c8e475ba.js",
-    "static/js/2.46cb0989.chunk.js",
+    "static/js/2.5da0a4d5.chunk.js",
     "static/css/main.120a9a5c.chunk.css",
-    "static/js/main.a97800ee.chunk.js"
+    "static/js/main.29dc31ae.chunk.js"
   ]
 }
